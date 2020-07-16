@@ -39,11 +39,11 @@ The model is saved using the tf.v1 Saved Model method.
 
 ### Accuracy on test set is 97.92%.
 
-[nn]:tensorboard_mnist_digit_logs/graphs_models\graph.png
-[graph]:tensorboard_mnist_digit_logs\graphs_models\graph.png
-[graph_acc]:tensorboard_mnist_digit_logs\graphs_models\graph_acc.png
-[graph_cost]:tensorboard_mnist_digit_logs\graphs_models\graph_cost.png
-[layer1_biases]:tensorboard_mnist_digit_logs\graphs_models\layer1_biases.png
-[layer1_weights_train]:tensorboard_mnist_digit_logs\graphs_models\layer1_weights_train.png
-[out_biases]:tensorboard_mnist_digit_logs\graphs_models\out_biases.png
-[out_weigts]:tensorboard_mnist_digit_logs\graphs_models\out_weigts.png
+[nn]:tensorboard_mnist_digit_logs/graphs_models/graph.png
+[graph]:tensorboard_mnist_digit_logs/graphs_models/graph.png
+[graph_acc]:tensorboard_mnist_digit_logs/graphs_models/graph_acc.png
+[graph_cost]:tensorboard_mnist_digit_logs/graphs_models/graph_cost.png
+[layer1_biases]:tensorboard_mnist_digit_logs/graphs_models/layer1_biases.png
+[layer1_weights_train]:tensorboard_mnist_digit_logs/graphs_models/layer1_weights_train.png
+[out_biases]:tensorboard_mnist_digit_logs/graphs_models/out_biases.png
+[out_weigts]:tensorboard_mnist_digit_logs/graphs_models/out_weigts.png
