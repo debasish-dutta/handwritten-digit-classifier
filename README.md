@@ -3,6 +3,7 @@
 ## Problem
 
 In this I tend to create a neural network model to classify handwritten digits.
+
 ![nn]
 
 ## Data
