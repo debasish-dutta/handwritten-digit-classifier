@@ -44,9 +44,9 @@ out_biases
 
 ![out_biases]
 
-out_weigts
+out_weights
 
-![out_weigts]
+![out_weights]
 
 ## Saving
 
@@ -61,4 +61,4 @@ The model is saved using the tf.v1 Saved Model method.
 [layer1_biases]:tensorboard_mnist_digit_logs/graphs_models/layer1_biases.png
 [layer1_weights_train]:tensorboard_mnist_digit_logs/graphs_models/layer1_weights_train.png
 [out_biases]:tensorboard_mnist_digit_logs/graphs_models/out_biases.png
-[out_weigts]:tensorboard_mnist_digit_logs/graphs_models/out_weigts.png
+[out_weights]:tensorboard_mnist_digit_logs/graphs_models/out_weights.png
