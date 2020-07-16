@@ -34,7 +34,7 @@ The histogram chart of the model on different layers are
 
 layer1_biases
 
-[layer1_biases]
+![layer1_biases]
 
 layer1_weights_train
 
