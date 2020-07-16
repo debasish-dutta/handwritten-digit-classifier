@@ -1,4 +1,4 @@
-# handwritten-digit-classifier
+# Handwritten-Digit-Classifier
 
 ## Problem
 
