@@ -14,24 +14,38 @@ The data are greyscale images of 28 by 28 px. These are then flattened into abou
 ## Model Creatiion
 
 The model is created withh 3 laters - the input layer with 2 hidden layer and the output layer with a learning rate of le-3. The first hidden layer consists of 512 nodes and the 2nd hidden layer with 64 nodes. The model is then trained in batched of 1000 and total of 50 epochs.
+
 ![graph]
 
 ## Evaluation
 
 The model is evaluated on 2 metrices - accuracy and loss. It uses the Adam optimizer.
+Accuracy Graph
+
 ![graph_acc]
+
+Loss Graph
+
 ![graph_cost]
 
 ---
 
 The histogram chart of the model on different layers are
+
 layer1_biases
+
 [layer1_biases]
+
 layer1_weights_train
+
 ![layer1_weights_train]
+
 out_biases
+
 ![out_biases]
+
 out_weigts
+
 ![out_weigts]
 
 ## Saving
