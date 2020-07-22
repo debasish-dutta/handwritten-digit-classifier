@@ -52,7 +52,7 @@ out_weights
 
 The model is saved using the tf.v1 Saved Model method.
 
-### Accuracy on test set is 97.92%.
+## Accuracy on test set is 97.92%.
 
 [nn]:tensorboard_mnist_digit_logs/graphs_models/nn.jpg
 [graph]:tensorboard_mnist_digit_logs/graphs_models/graph.png
